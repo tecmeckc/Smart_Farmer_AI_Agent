@@ -50,7 +50,7 @@ A smart AI agent hosted on IBM Cloud that uses Watsonx.ai and RAG to provide mul
 
 ## 🌟 WOW Factors
 
-- Multilingual support: responds in English, Hindi, Punjabi, and French  
+- Multilingual support: responds in English, Hindi 
 - Uses real-time soil, crop, and mandi datasets for recommendations  
 - Powered by IBM Watsonx and Retrieval-Augmented Generation (RAG)  
 - Smart redirection on off-topic queries  
@@ -80,7 +80,10 @@ A smart AI agent hosted on IBM Cloud that uses Watsonx.ai and RAG to provide mul
 
 ## 📸 Screenshots
 
-> (Add these in your GitHub repo images directory and link here)
+> (https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/SmartFarming.png)
+> (https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/previewFinal.png)
+> (https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/Deployed.png)
+> (https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/randomPrompt.png)
 
 - Agent setup and deployment  
 - Dataset upload (Soil, Weather, Mandi Prices)  
