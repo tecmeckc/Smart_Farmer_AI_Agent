@@ -80,10 +80,18 @@ A smart AI agent hosted on IBM Cloud that uses Watsonx.ai and RAG to provide mul
 
 ## 📸 Screenshots
 
-> (https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/SmartFarming.png)
-> (https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/previewFinal.png)
-> (https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/Deployed.png)
-> (https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/randomPrompt.png)
+### 🌾 Smart Farming Agent Preview  
+![Smart Farming Agent](https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/SmartFarming.png?raw=true)
+
+### 🧠 Final Agent Preview  
+![Preview Final](https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/previewFinal.png?raw=true)
+
+### 🚀 Agent Deployment on IBM Cloud  
+![Deployed](https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/Deployed.png?raw=true)
+
+### 💡 Random Prompt Test Output  
+![Random Prompt](https://github.com/tecmeckc/Smart_Farmer_AI_Agent/blob/main/randomPrompt.png?raw=true)
+
 
 - Agent setup and deployment  
 - Dataset upload (Soil, Weather, Mandi Prices)  
